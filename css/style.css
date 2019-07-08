@@ -5,8 +5,13 @@ body {
 .cool{
 	width: 100px;
 	height: 100px;
+<<<<<<< HEAD
 	background-color:green;
 	transition: background-color 2s;
+=======
+	background-color:lightgreen;
+	transition:background-color 1s;
+>>>>>>> 4545b98ebdcdc9d609054953a044e4740ffaa3c2
 }
 
 .cool.red{
